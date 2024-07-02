@@ -1,21 +1,21 @@
 <p align="center"><img src="https://github.com/AlanMarquesFerreira/FCAccess-Superlogica/assets/124633669/078d05df-a5cf-4dbe-a29f-30c9108b9cb3.png" alt="drawing" width="150"/></p>
 
-# FCAccess-Superlogica
-## Resolva o fechamento do software FCAccess Client
+> # FCAccess-Superlogica
+>> ## Resolva o fechamento do software FCAccess Client
 
 ##### ░ By Alan Marques ░
 
 O script e bem simples pode ser executado no  **PowerShell, CMD**. 
 Esse aquivo foi criado para resolver o problema do fechamento do FCAccess client os que ficam instalados nas portarias.
 
-### PERMISSÃO DE ADMINNISTRADOR
+> ### PERMISSÃO DE ADMINISTRADOR
+>
+> para executar o  precisar de permissão de **ADMINISTRADOR** recomento criar um arquivo .CMD ou .BAT
+> e executar como adm.
 
-para executar o  precisar de permissão de **ADMINISTRADOR** recomento criar um arquivo .CMD ou .BAT
-e executar como adm.
-
-### OBSERVAÇÕES IMPORTANTES:
+>### OBSERVAÇÕES IMPORTANTES:
 > **Oque é desativado no script.**
-
+>
 #### 1. Parada do Serviço FCAccess Central System Installation:
 
 O serviço _`FCAccess Central System Installation`_ é interrompido para realizar as configurações necessárias.
@@ -37,7 +37,7 @@ A pasta do _`FCAccess Client`_ é adicionada como uma exclusão no Windows Defen
 
 #### 5. Configuração de Regras no Firewall:
 
-* Regras de firewall são adicionadas para permitir o tráfego de entrada e saída para o _`firstControl_gui.exe e pg_ctl.exe do PostgreSQL`_.
+* Regras de firewall são adicionadas para permitir o tráfego de entrada e saída para o _`firstControl_gui.exe e pg_ctl.exe`_. do PostgreSQL.
 * Uma exceção de firewall é adicionada para a _`porta 5432`_, utilizada pelo PostgreSQL.
 
 #### Reinício do Serviço FCAccess Central System Installation:
@@ -47,8 +47,8 @@ O serviço _`FCAccess Central System Installation`_ é reiniciado após as confi
 
 ___
 
-#### Código do script
-
+># Código do script
+>
 ```
 @echo off
 echo :: Parar o servico FCAccess Central System Installation
