@@ -42,7 +42,7 @@ A pasta do _`FCAccess Client`_ é adicionada como uma exclusão no Windows Defen
 * Regras de firewall são adicionadas para permitir o tráfego de entrada e saída para o _`firstControl_gui.exe e pg_ctl.exe`_. do PostgreSQL.
 * Uma exceção de firewall é adicionada para a _`porta 5432`_, utilizada pelo PostgreSQL.
 
-#### Reinício do Serviço FCAccess Central System Installation:
+#### 6. Reinício do Serviço FCAccess Central System Installation:
 
 O serviço _`FCAccess Central System Installation`_ é reiniciado após as configurações.
 
