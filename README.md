@@ -1,8 +1,8 @@
 <p align="center"><img src="https://github.com/AlanMarquesFerreira/FCAccess-Superlogica/assets/124633669/078d05df-a5cf-4dbe-a29f-30c9108b9cb3.png" alt="drawing" width="200"/></p>
 
-> # FCAccess-Superlogica
->> ## Resolva o fechamento do software FCAccess Client
-
+# FCAccess-Superlogica
+> ## Resolva o fechamento do software FCAccess Client
+>
 ##### ░ By Alan Marques ░
 
 O script e bem simples pode ser executado no  **PowerShell, CMD**. 
@@ -10,12 +10,12 @@ Esse aquivo foi criado para resolver o problema do fechamento do FCAccess client
 
 ![gif (1)](https://github.com/AlanMarquesFerreira/FCAccess-Superlogica/assets/124633669/da86e9ac-4362-4239-ae72-ab837db874ba)
 
-> ### PERMISSÃO DE ADMINISTRADOR
+### PERMISSÃO DE ADMINISTRADOR
 >
 > para executar o  precisar de permissão de **ADMINISTRADOR** recomento criar um arquivo .CMD ou .BAT
 > e executar como adm.
 
->### OBSERVAÇÕES IMPORTANTES:
+### OBSERVAÇÕES IMPORTANTES:
 > **Oque é desativado no script.**
 >
 #### 1. Parada do Serviço FCAccess Central System Installation:
@@ -49,7 +49,7 @@ O serviço _`FCAccess Central System Installation`_ é reiniciado após as confi
 
 ___
 
-># Código do script
+# Código do script
 >
 ```
 @echo off
