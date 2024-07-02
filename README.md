@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/AlanMarquesFerreira/FCAccess-Superlogica/assets/124633669/078d05df-a5cf-4dbe-a29f-30c9108b9cb3.png" alt="drawing" width="150"/></p>
+<p align="center"><img src="https://github.com/AlanMarquesFerreira/FCAccess-Superlogica/assets/124633669/078d05df-a5cf-4dbe-a29f-30c9108b9cb3.png" alt="drawing" width="200"/></p>
 
 > # FCAccess-Superlogica
 >> ## Resolva o fechamento do software FCAccess Client
@@ -62,7 +62,7 @@ if %errorlevel% neq 0 (
     echo :: O servico FCAccess Central System Installation foi parado com sucesso.
 )
 
-echo:: Desativar firewall na rede
+echo :: Desativar firewall na rede
 netsh advfirewall set domainprofile state off
 netsh advfirewall set privateprofile state off
 netsh advfirewall set publicprofile state off
