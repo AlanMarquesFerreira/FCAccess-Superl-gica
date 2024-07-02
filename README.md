@@ -1,14 +1,11 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/55323701/82506032-25bbd600-9ad5-11ea-8b5e-e7c699d385af.png" alt="drawing" width="150"/></p>
-
+<p align="center"><img src="https://github.com/AlanMarquesFerreira/FCAccess-Superlogica/assets/124633669/078d05df-a5cf-4dbe-a29f-30c9108b9cb3.png" alt="drawing" width="150"/></p>
 
 # FCAccess-Superlogica
 ### Resolva o fechamento do software FCAccess Client
 
 ##### ░ By Alan Marques ░
 
-Com a popularização do **GitHub**, e também da grande quantidade de novos programadores ultimamente, 
-a demanda para aprender *Markdown* aumentou bastante. *Markdown* é uma linguagem de marcação, parecido 
-com a sua companheira HTML. 
+O script e bem simples pode ser executado no  **PowerShell, CMD, .BAT**. 
 
 A maior utilidade dela atualmente certamente é para criar os famosos **READMEs** para seus repositórios
 no **GitHub**, e deixar o seu projeto mais 'apresentável'. E é por isso que hoje trago aqui um guia 
