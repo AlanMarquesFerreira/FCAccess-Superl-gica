@@ -8,6 +8,8 @@
 O script e bem simples pode ser executado no  **PowerShell, CMD**. 
 Esse aquivo foi criado para resolver o problema do fechamento do FCAccess client os que ficam instalados nas portarias.
 
+![gif (1)](https://github.com/AlanMarquesFerreira/FCAccess-Superlogica/assets/124633669/da86e9ac-4362-4239-ae72-ab837db874ba)
+
 > ### PERMISSÃO DE ADMINISTRADOR
 >
 > para executar o  precisar de permissão de **ADMINISTRADOR** recomento criar um arquivo .CMD ou .BAT
