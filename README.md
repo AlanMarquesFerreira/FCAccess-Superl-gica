@@ -12,7 +12,7 @@ Esse aquivo foi criado para resolver o problema do fechamento do FCAccess client
 
 ### PERMISSÃO DE ADMINISTRADOR
 >
-> para executar o  precisar de permissão de **ADMINISTRADOR** recomento criar um arquivo .CMD ou .BAT
+> para executar o  precisar de permissão de **ADMINISTRADOR** recomendo criar um arquivo .CMD ou .BAT
 > e executar como adm.
 
 ### OBSERVAÇÕES IMPORTANTES:
